@@ -20,12 +20,9 @@ Always eager to **think like an attacker to defend like a pro**.
 - **Cybersecurity Practices**: Malware Analysis · Forensics · Log Analysis · SIEM Tuning  
 - **Soft Skills**: Client Communication · Team Leadership · Active Learning  
 
-<p align="left">
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="80" style="margin-top:15px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="90" style="margin-top:0px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="95" style="margin-top:50px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="110" style="margin-top:8px;"/>
-</p>
+| <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="85"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="95"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="100"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="120"/> |
+|:--:|:--:|:--:|:--:|
+| IBM QRadar | Splunk | CrowdStrike | Azure Sentinel |
 
 ---
 
@@ -36,11 +33,9 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM QRadar SIEM Foundation**  
 - **IBM Watsonx Essentials**
   
-<p align="left">
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="85" style="vertical-align:middle; margin-top:5px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="95" style="vertical-align:middle; margin-top:0px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="70" style="vertical-align:middle; margin-top:-5px;"/>
-</p>
+| <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="90"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="95"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="80"/> |
+|:--:|:--:|:--:|
+| CEH | Security+ | LPIC-1 |
 
 ---
 
