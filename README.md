@@ -29,12 +29,11 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM QRadar SIEM Foundation**  
 - **IBM Watsonx Essentials**  
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM QRadar" width="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk_logo.svg" alt="Splunk" width="100"/>
-  <img src="https://www.crowdstrike.com/wp-content/uploads/2020/03/crowdstrike-logo.png" alt="CrowdStrike" width="120"/>
-  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44F5-seeklogo.com.png" alt="Azure Sentinel" width="90"/>
-</p>
+![IBM QRadar](https://img.shields.io/badge/IBM-QRadar-blue?logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?logo=splunk&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-EDR-red?logo=crowdsource&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Microsoft-Azure%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
+
 ---
 
 ## 🎓 Education & Training  
