@@ -37,8 +37,8 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM Watsonx Essentials**
   
 <p align="left">
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="90" style="vertical-align:middle; margin-top:5px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="100" style="vertical-align:middle; margin-top:0px;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="85" style="vertical-align:middle; margin-top:5px;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="95" style="vertical-align:middle; margin-top:0px;"/>
   <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="80" style="vertical-align:middle; margin-top:5px;"/>
 </p>
 
