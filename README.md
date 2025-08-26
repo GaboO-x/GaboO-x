@@ -22,7 +22,6 @@ Always eager to **think like an attacker to defend like a pro**.
 
 | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="85"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="95"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="100"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="120"/> |
 |:--:|:--:|:--:|:--:|
-| IBM QRadar | Splunk | CrowdStrike | Azure Sentinel |
 
 ---
 
@@ -35,7 +34,6 @@ Always eager to **think like an attacker to defend like a pro**.
   
 | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="90"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="95"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="80"/> |
 |:--:|:--:|:--:|
-| CEH | Security+ | LPIC-1 |
 
 ---
 
