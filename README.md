@@ -29,11 +29,12 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM QRadar SIEM Foundation**  
 - **IBM Watsonx Essentials**   
 
-![CEH](https://img.shields.io/badge/CEH-Ethical%20Hacker-red?logo=hackthebox&logoColor=white)  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?logo=comptia&logoColor=white)  
-![LPIC-1](https://img.shields.io/badge/Linux-LPIC--1-green?logo=linux&logoColor=white)  
-![IBM QRadar](https://img.shields.io/badge/IBM-QRadar-blue?logo=ibm&logoColor=white)  
-![Microsoft](https://img.shields.io/badge/Microsoft-Azure-informational?logo=microsoftazure&logoColor=white)
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM QRadar" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk_logo.svg" alt="Splunk" width="100"/>
+  <img src="https://www.crowdstrike.com/wp-content/uploads/2020/03/crowdstrike-logo.png" alt="CrowdStrike" width="120"/>
+  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44F5-seeklogo.com.png" alt="Azure Sentinel" width="90"/>
+</p>
 
 ---
 
