@@ -27,7 +27,13 @@ Always eager to **think like an attacker to defend like a pro**.
 - **CompTIA Security+**  
 - **LPIC-1 Linux Administrator**  
 - **IBM QRadar SIEM Foundation**  
-- **IBM Watsonx Essentials**  
+- **IBM Watsonx Essentials**   
+
+![CEH](https://img.shields.io/badge/CEH-Ethical%20Hacker-red?logo=hackthebox&logoColor=white)  
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?logo=comptia&logoColor=white)  
+![LPIC-1](https://img.shields.io/badge/Linux-LPIC--1-green?logo=linux&logoColor=white)  
+![IBM QRadar](https://img.shields.io/badge/IBM-QRadar-blue?logo=ibm&logoColor=white)  
+![Microsoft](https://img.shields.io/badge/Microsoft-Azure-informational?logo=microsoftazure&logoColor=white)
 
 ---
 
