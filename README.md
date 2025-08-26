@@ -21,10 +21,10 @@ Always eager to **think like an attacker to defend like a pro**.
 - **Soft Skills**: Client Communication · Team Leadership · Active Learning  
 
 <p align="left">
-  <img src="assets/logos/Qradar.png" alt="IBM QRadar" width="90"/>
-  <img src="assets/logos/Splunk.png" alt="Splunk" width="100"/>
-  <img src="assets/logos/Crowdstrike.png" alt="CrowdStrike" width="120"/>
-  <img src="assets/logos/Azure.png" alt="Azure Sentinel" width="90"/>
+  <img src="./assets/logos/Qradar.png" alt="IBM QRadar" width="90"/>
+  <img src="./assets/logos/Splunk.png" alt="Splunk" width="100"/>
+  <img src="./assets/logos/Crowdstrike.png" alt="CrowdStrike" width="120"/>
+  <img src="./assets/logos/Azure.png" alt="Azure Sentinel" width="90"/>
 </p>
 
 ---
@@ -37,9 +37,9 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM Watsonx Essentials**
   
 <p align="left">
-  <img src="assets/logos/CEH.png" alt="Certified Ethical Hacker" width="120"/>
-  <img src="assets/logos/SecPlus.png" alt="CompTIA Security+" width="120"/>
-  <img src="assets/logos/Lpic1.png" alt="LPIC-1 Linux Administrator" width="100"/>
+  <img src="./assets/logos/CEH.png" alt="Certified Ethical Hacker" width="120"/>
+  <img src="./assets/logos/SecPlus.png" alt="CompTIA Security+" width="120"/>
+  <img src="./assets/logos/Lpic1.png" alt="LPIC-1 Linux Administrator" width="100"/>
 </p>
 
 ---
