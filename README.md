@@ -23,7 +23,7 @@ Always eager to **think like an attacker to defend like a pro**.
 <p align="left">
   <img src="assets/logos/Qradar.png" alt="IBM QRadar" width="90"/>
   <img src="assets/logos/Splunk.png" alt="Splunk" width="100"/>
-  <img src="assets/logos/Crowdstrike.webp" alt="CrowdStrike" width="120"/>
+  <img src="assets/logos/Crowdstrike.png" alt="CrowdStrike" width="120"/>
   <img src="assets/logos/Azure.png" alt="Azure Sentinel" width="90"/>
 </p>
 
@@ -34,11 +34,11 @@ Always eager to **think like an attacker to defend like a pro**.
 - **CompTIA Security+**  
 - **LPIC-1 Linux Administrator**  
 - **IBM QRadar SIEM Foundation**  
-- **IBM Watsonx Essentials**  
-
+- **IBM Watsonx Essentials**
+  
 <p align="left">
   <img src="assets/logos/CEH.png" alt="Certified Ethical Hacker" width="120"/>
-  <img src="assets/logos/Sec+.png" alt="CompTIA Security+" width="120"/>
+  <img src="assets/logos/SecPlus.png" alt="CompTIA Security+" width="120"/>
   <img src="assets/logos/Lpic1.png" alt="LPIC-1 Linux Administrator" width="100"/>
 </p>
 
