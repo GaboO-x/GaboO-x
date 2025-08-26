@@ -21,10 +21,10 @@ Always eager to **think like an attacker to defend like a pro**.
 - **Soft Skills**: Client Communication · Team Leadership · Active Learning  
 
 <p align="left">
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="85"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="100"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="110"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="100"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="85" style="vertical-align:middle;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="95" style="vertical-align:middle;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="100" style="vertical-align:middle;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="120" style="vertical-align:middle;"/>
 </p>
 
 ---
@@ -37,9 +37,9 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM Watsonx Essentials**
   
 <p align="left">
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="100"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="100"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="80"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="90" style="vertical-align:middle;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="100" style="vertical-align:middle;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="80" style="vertical-align:middle;"/>
 </p>
 
 ---
