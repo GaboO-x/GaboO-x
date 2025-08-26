@@ -32,7 +32,7 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM QRadar SIEM Foundation**  
 - **IBM Watsonx Essentials**
   
-| <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="90"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="95"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="80"/> |
+| <img src="https://github.com/GaboO-x/GaboO-x/blob/main/CEH.png" alt="Certified Ethical Hacker" width="75"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/SecPlus2.png" alt="CompTIA Security+" width="80"/> | <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Lpic1.png" alt="LPIC-1 Linux Administrator" width="65"/> |
 |:--:|:--:|:--:|
 
 ---
