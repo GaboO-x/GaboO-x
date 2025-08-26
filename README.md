@@ -15,7 +15,7 @@ Always eager to **think like an attacker to defend like a pro**.
 
 ## 🛠️ Skills & Expertise  
 - **Security Operations**: Threat Detection · Incident Response · Threat Hunting  
-- **Tools & Platforms**: IBM QRadar · Splunk · CrowdStrike · Azure Sentinel  
+- **SIEMs & Platforms**: IBM QRadar · Splunk · CrowdStrike · Azure Sentinel  
 - **Networking & Systems**: TCP/IP · Firewalls · VPNs · Linux (LPIC-1) · Windows  
 - **Cybersecurity Practices**: Malware Analysis · Forensics · Log Analysis · SIEM Tuning  
 - **Soft Skills**: Client Communication · Team Leadership · Active Learning  
@@ -29,6 +29,12 @@ Always eager to **think like an attacker to defend like a pro**.
 - **IBM QRadar SIEM Foundation**  
 - **IBM Watsonx Essentials**  
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM QRadar" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk_logo.svg" alt="Splunk" width="100"/>
+  <img src="https://www.crowdstrike.com/wp-content/uploads/2020/03/crowdstrike-logo.png" alt="CrowdStrike" width="120"/>
+  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44F5-seeklogo.com.png" alt="Azure Sentinel" width="90"/>
+</p>
 ---
 
 ## 🎓 Education & Training  
