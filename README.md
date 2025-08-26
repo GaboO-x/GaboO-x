@@ -13,24 +13,54 @@ Always eager to **think like an attacker to defend like a pro**.
 
 ---
 
-## 🛠️ Tools & Platforms  
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM QRadar" width="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk_logo.svg" alt="Splunk" width="100"/>
-  <img src="https://www.crowdstrike.com/wp-content/uploads/2020/03/crowdstrike-logo.png" alt="CrowdStrike" width="120"/>
-  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44F5-seeklogo.com.png" alt="Azure Sentinel" width="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_logo.svg" alt="Windows" width="100"/>
-</p>
+## 🛠️ Skills & Expertise  
+- **Security Operations**: Threat Detection · Incident Response · Threat Hunting  
+- **Tools & Platforms**: IBM QRadar · Splunk · CrowdStrike · Azure Sentinel  
+- **Networking & Systems**: TCP/IP · Firewalls · VPNs · Linux (LPIC-1) · Windows  
+- **Cybersecurity Practices**: Malware Analysis · Forensics · Log Analysis · SIEM Tuning  
+- **Soft Skills**: Client Communication · Team Leadership · Active Learning  
 
 ---
 
 ## 📜 Certifications  
+- **Certified Ethical Hacker (CEH)**  
+- **CompTIA Security+**  
+- **LPIC-1 Linux Administrator**  
+- **IBM QRadar SIEM Foundation**  
+- **IBM Watsonx Essentials**  
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/EC-Council-logo.png" alt="CEH" width="140"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/CompTIA_logo.svg" alt="CompTIA Security+" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="LPIC-1" width="70"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM QRadar" width="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mic
+---
+
+## 🎓 Education & Training  
+- **Advanced Cybersecurity Program** – Microsoft Learn *(May 2025 – Aug 2025)*  
+- **Linux Server Administration (LPIC-1)** – Universidad de Costa Rica *(2023)*  
+- **CCNA R&S** – Universidad Técnica Nacional *(2019 – 2020)*  
+- **Cybersecurity Training** – Hacker Mentor *(2022)*  
+
+---
+
+## 💼 Professional Experience  
+**IBM – XFTM L2 Investigation Analyst** *(Aug 2024 – Present)*  
+- Conducted investigations using QRadar, Splunk, CrowdStrike, and Sentinel.  
+- Identified attack patterns and breaches through multi-source correlation.  
+- Led proactive threat hunting initiatives reducing false positives by 20%.  
+- Delivered technical briefings to stakeholders on incident response progress.  
+
+**IBM – Threat Monitoring Analyst** *(Jun 2021 – Nov 2024)*  
+- Monitored client environments to detect/respond to threats.  
+- Optimized SIEM tuning, reducing noise by 15%.  
+- Performed triage, escalation, and mentored junior analysts.  
+
+**HP – Service Desk Analyst** *(Jan 2017 – Jun 2021)*  
+- Supported LATAM clients with hardware/software issues.  
+- Delivered SLA reports and trained/coached new hires.  
+
+---
+
+## 📫 Contact Me  
+- 🌍 Costa Rica  
+- ✉️ [gabriel_mora1409@yahoo.com](mailto:gabriel_mora1409@yahoo.com)  
+- 🔗 [LinkedIn – Gabriel Mora](https://www.linkedin.com/in/gabriel-mora-b33320b1)  
+
+---
+⭐️ *Always learning, always hacking ethically — bridging the gap between **attacker mindset** and **defender resilience***  
