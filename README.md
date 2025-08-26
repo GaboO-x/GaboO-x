@@ -24,7 +24,7 @@ Always eager to **think like an attacker to defend like a pro**.
   <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="85" style="margin-top:0px;"/>
   <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="95" style="margin-top:0px;"/>
   <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="95" style="margin-top:0px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="95" style="margin-top:0px;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="105" style="margin-top:0px;"/>
 </p>
 
 ---
