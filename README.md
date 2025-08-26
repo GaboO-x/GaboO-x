@@ -21,10 +21,10 @@ Always eager to **think like an attacker to defend like a pro**.
 - **Soft Skills**: Client Communication · Team Leadership · Active Learning  
 
 <p align="left">
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" style="margin-top:5px;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Qradar2.png" alt="IBM QRadar" width="95" style="margin-top:5px;"/>
   <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Splunk2.png" alt="Splunk" width="95" style="margin-top:0px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" style="margin-top:10px;"/>
-  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" style="margin-top:10px;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Crowdstrike2.png" alt="CrowdStrike" width="95" style="margin-top:10px;"/>
+  <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Azure2.png" alt="Azure Sentinel" width="95" style="margin-top:10px;"/>
 </p>
 
 ---
