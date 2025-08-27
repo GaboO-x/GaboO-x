@@ -1,4 +1,4 @@
-# 👨‍💻<img src="https://archives.bulbagarden.net/media/upload/1/1e/093Haunter.png" alt="Haunter" width="30"/> Gabriel Mora  
+# 👨‍💻<img src="https://github.com/GaboO-x/GaboO-x/blob/main/Fantasma.png" alt="Haunter" width="30"/> Gabriel Mora  
 
 **Cybersecurity Analyst | CEH | Threat Detection & Offensive Security Enthusiast**  
 
