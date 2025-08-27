@@ -46,6 +46,8 @@ Always eager to **think like an attacker to defend like a pro**.
 ## 🛡️ TryHackMe Progress
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/GaboO.png)
 
+![CrowdStrike University](https://img.shields.io/badge/CrowdStrike%20University-Training%20in%20Progress-E01E5A?style=for-the-badge&logo=crowdstrike&logoColor=white)
+
 ---
 
 ## 💼 Professional Experience  
