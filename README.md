@@ -43,10 +43,8 @@ Always eager to **think like an attacker to defend like a pro**.
 - **CCNA R&S** – Universidad Técnica Nacional *(2019 – 2020)*  
 - **Cybersecurity Training** – Hacker Mentor *(2022)*  
 
-<h2 align="center">🛡️ TryHackMe Progress</h2>
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/GaboO.png" alt="TryHackMe Badge"/>
-</p>
+## 🛡️ TryHackMe Progress
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/GaboO.png)
 
 ---
 
