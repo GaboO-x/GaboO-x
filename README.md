@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 --> About Me  
+## 🚀 About Me  
 Cybersecurity professional with 4+ years of experience in **threat detection, incident response, and forensic investigations**.  
 Skilled in **SIEM/EDR platforms** (QRadar, Splunk, CrowdStrike, Sentinel) and proactive **threat hunting**.  
 
