@@ -1,5 +1,5 @@
-# <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Fantasma.png" alt="Haunter" width="30"/> Gabriel Mora  
-<img src="https://github.com/GaboO-x/GaboO-x/blob/main/gengar.png" alt="Gengar" width="30"/>
+# <img src="https://github.com/GaboO-x/GaboO-x/blob/main/Fantasma.png" alt="Haunter" width="45"/> Gabriel Mora  
+
 **Cybersecurity Analyst | CEH | Threat Detection & Offensive Security Enthusiast**  
 
 ---
