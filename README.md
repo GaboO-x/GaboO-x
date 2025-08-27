@@ -43,6 +43,8 @@ Always eager to **think like an attacker to defend like a pro**.
 - **CCNA R&S** – Universidad Técnica Nacional *(2019 – 2020)*  
 - **Cybersecurity Training** – Hacker Mentor *(2022)*  
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=250253" style='border:none;'></iframe>
+
 ---
 
 ## 💼 Professional Experience  
